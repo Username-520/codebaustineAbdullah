@@ -1,0 +1,15 @@
+/* button ui  */
+.button-ui{
+    font-size: 2rem;
+    padding-bottom: 1rem;
+background-color: #EAB308;
+border-radius: 1.5rem;
+    color: black;
+    font-weight: 100;
+    cursor: pointer;
+    transition: 0.5s ease;
+}
+.button-ui:hover{
+    transform: scale(1.1);
+}
+    

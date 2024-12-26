@@ -1,0 +1,9 @@
+.container-wrapper {
+  @apply mx-auto w-[90%] max-w-[1200px] ;
+}
+
+.moudal-image{
+background: url("C:\let'sPlayCode\codebaustineAbdullah\public\images\Untitled-4-01 2 (1).png");
+
+
+}
